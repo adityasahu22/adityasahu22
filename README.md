@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Sahu - @adityasahu22
-- 👀 I’m interested in Data Science, Data Analysis and Machine learning
+- 👀 I’m interested in Data Science, Data Analysis and Machine learning and Digital Marketing
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 

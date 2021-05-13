@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityasahu22
+- 👋 Hi, I’m Aditya Sahu - @adityasahu22
 - 👀 I’m interested in Data Science, Data Analysis and Machine learning
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Data Science projects
